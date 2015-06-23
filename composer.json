@@ -1,0 +1,12 @@
+{
+  "require" :  {
+    "neurosys/file-merger": "dev-master",
+    "h4cc/wkhtmltopdf-i386": "0.12.x",
+    "h4cc/wkhtmltopdf-amd64": "0.12.x",
+    "knplabs/knp-snappy": "0.3.*@dev",
+    "dompdf/dompdf": "0.6.*",
+    "michelf/php-markdown": "1.4.*",
+    "querypath/querypath": "3.*",
+    "masterminds/html5": "1.*"
+  }
+}
